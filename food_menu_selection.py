@@ -2,7 +2,7 @@ from tkinter import *
 import random
 
 window = Tk()
-window.title("가대 음식점 선택 프로그램_201720908 이경연")
+window.title("가대 음식점 선택 프로그램")
 photo = PhotoImage(file="name2.gif")
 imageLabel = Label(window, image=photo).pack()
 
